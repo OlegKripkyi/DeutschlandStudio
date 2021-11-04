@@ -1,2 +1,2 @@
 # DeutschlandStudio
-German language lerners for
+German language learners for
